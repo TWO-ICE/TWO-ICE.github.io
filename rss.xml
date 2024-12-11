@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Dec 2024 08:08:06 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Dec 2024 08:08:06 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Dec 2024 08:14:01 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 08:14:01 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -33,62 +33,6 @@
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://newzone.top/inbox/</link>
-      <guid>https://newzone.top/inbox/</guid>
-      <source url="https://newzone.top/rss.xml"></source>
-      <description>目录 [toc] 标题2——有序/无须列表 无序列表1 无序列表2 无序列表2.1 代码 有序列表1 有序列表1.1 有序列表1.1.1 标题3——超链接/图片/引用 超链接 图片 引用 引用斜体 引用粗体 引用代码. 高亮 标题4——公式 $$ -b \pm \sqrt{b^2 - 4ac} \over 2a $$ $$ x{yz}=(1+{\rm ...</description>
-      <pubDate>Wed, 11 Dec 2024 08:00:14 GMT</pubDate>
-      <content:encoded><![CDATA[<p>目录</p>
-<p>[toc]</p>
-<h2>标题2——有序/无须列表</h2>
-<ul>
-<li>无序列表1</li>
-<li>无序列表2
-<ul>
-<li>无序列表2.1
-<ul>
-<li><s>无序列表2.1.1删除线</s></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><code>代码</code></li>
-</ul>
-<ol>
-<li>有序列表1
-<ol>
-<li>有序列表1.1
-<ol>
-<li>有序列表1.1.1</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-<h3>标题3——超链接/图片/引用</h3>
-<p><a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">超链接</a></p>
-<p><strong>图片</strong></p>
-<figure><img src="https://pic.fengsutb.com/img/favicon-128.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<blockquote>
-<p>引用
-<em>引用斜体</em> <strong>引用粗体</strong> <code>引用代码</code>.</p>
-</blockquote>
-<p><mark>高亮</mark></p>
-<h4>标题4——公式</h4>
-<p>$$
--b \pm \sqrt{b^2 - 4ac} \over 2a
-$$
-$$
-x<sup>{y</sup>z}=(1+{\rm e}<sup -2xy^w="">x)</sup>
-$$</p>
-<h5>标题5——表格</h5>
-<p>|    Tables     |      Are      | Cool  |
-| :</p>
-]]></content:encoded>
-      <enclosure url="https://pic.fengsutb.com/img/favicon-128.png" type="image/png"/>
     </item>
   </channel>
 </rss>
