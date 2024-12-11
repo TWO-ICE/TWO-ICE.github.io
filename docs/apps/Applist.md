@@ -11,7 +11,7 @@ Windows 自用软件，以开源软件为主。
 
 本地笔记：Logseq & Obsidian & 妙笔 & Joplin ~~& Wiz 笔记 & OneNote~~
 
-在线笔记：Notion & 飞书 & flomo & Airtable & 简悦
+在线笔记：Notion & 飞书 & flomo & Airtable & 简悦1
 
 清单日历：滴答清单 & [Super Productivity](https://github.com/johannesjo/super-productivity) & Trello & Habitify & 桌面日历 ~~& Workflowy~~
 
