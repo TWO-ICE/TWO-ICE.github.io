@@ -10,6 +10,14 @@ export default sidebar({
     { text: "读书笔记", icon: "fa6-brands:readme", link: "https://newzone.top/reading/" },
     // 指定显示页面
     {
+      text: "📥️ 收集箱",
+      icon: "",
+      prefix: "/inbox/",
+      link: "",
+      collapsible: true,
+      children: "structure",
+    },
+    {
       text: "🧰 应用手册",
       icon: "",
       prefix: "/apps/",
